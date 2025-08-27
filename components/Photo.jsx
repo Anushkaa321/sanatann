@@ -3,9 +3,9 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const photos = [
-  { src: "/Abhay.jpg", name: "अभय शर्मा", position: "राष्ट्रीय अध्यक्ष" },
+  { src: "/Abhay.jpg", name: "अभय कुमार", position: "राष्ट्रीय अध्यक्ष" },
   { src: "/sanjay.jpg", name: "संजय सिंह", position: "राष्ट्रीय महामंत्री" },
-  { src: "/Mayank.jpg", name: "मयंक वर्मा", position: "राष्ट्रीय संगठन मंत्री" },
+  { src: "/Mayank.jpg", name: "मयंक पाण्डेय", position: "राष्ट्रीय संगठन मंत्री" },
   { src: "/photo4.jpg", name: "गिरीश डालाकोटी", position: "प्रदेश महामंत्री" },
 ];
 
