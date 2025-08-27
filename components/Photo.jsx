@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 
 const photos = [
   { src: "/Abhay.jpg", name: "अभय शर्मा", position: "राष्ट्रीय अध्यक्ष" },
-  { src: "/Sanjay.jpg", name: "संजय सिंह", position: "राष्ट्रीय महामंत्री" },
+  { src: "/sanjay.jpg", name: "संजय सिंह", position: "राष्ट्रीय महामंत्री" },
   { src: "/Mayank.jpg", name: "मयंक वर्मा", position: "राष्ट्रीय संगठन मंत्री" },
-  { src: "/photo4.jpg", name: "सदस्य", position: "प्रदेश महामंत्री" },
+  { src: "/photo4.jpg", name: "गिरीश डालाकोटी", position: "प्रदेश महामंत्री" },
 ];
 
 export default function PhotoSection() {
