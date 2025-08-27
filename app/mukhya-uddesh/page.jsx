@@ -3,19 +3,21 @@ export default function MukhyaUddesh() {
     <main className="relative w-full min-h-screen overflow-hidden">
       {/* Background Video Section */}
       <section className="relative w-full h-screen overflow-hidden">
+        {/* Video */}
         <video
-          src="/aboutvedio.mp4"
+          src="/oo.mp4"
           autoPlay
           loop
+          muted
           playsInline
-          className="relative mt-20 w-full h-[600px] object-cover rounded-xl shadow-lg"
+          className="absolute top-0 left-0 w-full h-full object-cover"
         />
 
         {/* Hero Content */}
         <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-6">
           <h1 className="text-5xl font-bold mb-4">मुख्य उद्देश्य</h1>
           <p className="text-lg max-w-2xl">
-            यहाँ आपके उद्देश्य का संक्षिप्त विवरण होगा।  
+            यहाँ आपके उद्देश्य का संक्षिप्त विवरण होगा।
           </p>
         </div>
       </section>
@@ -45,27 +47,22 @@ export default function MukhyaUddesh() {
               और विश्व का कल्याण संभव होगा।
             </li>
             <li>
-             अखंड भारत को पुनः स्थापित करने के साथ-साथ हिन्दू राष्ट्र की घोषणा ।
+              अखंड भारत को पुनः स्थापित करने के साथ-साथ हिन्दू राष्ट्र की घोषणा।
             </li>
             <li>
-             
-             हिन्दू मान बिन्दुओं की रक्षा, हिन्दू धार्मिक स्थलों का प्रचार प्रसार ।
+              हिन्दू मान बिन्दुओं की रक्षा, हिन्दू धार्मिक स्थलों का प्रचार प्रसार।
             </li>
             <li>
-             चारधाम यात्रा का बाजारीकरण बंद हो, गैर धार्मिक लोगों का प्रवेश वर्जित हो ।
+              चारधाम यात्रा का बाजारीकरण बंद हो, गैर धार्मिक लोगों का प्रवेश वर्जित हो।
             </li>
-              <li>
-             गौ हत्या पूर्ण रूप से प्रतिबंधित हो ।
+            <li>गौ हत्या पूर्ण रूप से प्रतिबंधित हो।</li>
+            <li>
+              पहाड़ों के हिन्दू परिवारों के जीवन यापन की व्यवस्था सुनिश्चित करना व उन्हें स्वावलम्बी बनाना।
             </li>
-              <li>
-             पहाड़ों के हिन्दू परिवारों के जीवन यापन की व्यवस्था सुनिश्चित करना व उन्हें स्वावलम्बी बनाना ।
+            <li>
+              सनातन धर्म में पुनः घर वापसी करने वालों के जीवन यापन की समुचित व्यवस्था के लिए आयोग बने।
             </li>
-              <li>
-            सनातन धर्म में पुनः घर वापसी करने वालों के जीवन यापन की समुचित व्यवस्था के लिए आयोग बने ।
-            </li>
-              <li>
-           देश और धर्म की रक्षा हेतु युवाओं को संगठित व सशक्त बनाना।
-            </li>
+            <li>देश और धर्म की रक्षा हेतु युवाओं को संगठित व सशक्त बनाना।</li>
           </ul>
         </div>
       </section>
